@@ -1,2 +1,2 @@
 # test
-Just making an addition to this readme. Going to commit it, too.
+Removed some text. Added this instead.
